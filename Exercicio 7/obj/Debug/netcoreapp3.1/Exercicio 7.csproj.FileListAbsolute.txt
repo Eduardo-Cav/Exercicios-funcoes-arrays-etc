@@ -1,0 +1,13 @@
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\Exercicio 7\bin\Debug\netcoreapp3.1\Exercicio 7.exe
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\Exercicio 7\bin\Debug\netcoreapp3.1\Exercicio 7.deps.json
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\Exercicio 7\bin\Debug\netcoreapp3.1\Exercicio 7.runtimeconfig.json
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\Exercicio 7\bin\Debug\netcoreapp3.1\Exercicio 7.runtimeconfig.dev.json
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\Exercicio 7\bin\Debug\netcoreapp3.1\Exercicio 7.dll
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\Exercicio 7\bin\Debug\netcoreapp3.1\Exercicio 7.pdb
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\Exercicio 7\obj\Debug\netcoreapp3.1\Exercicio 7.csprojAssemblyReference.cache
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\Exercicio 7\obj\Debug\netcoreapp3.1\Exercicio 7.AssemblyInfoInputs.cache
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\Exercicio 7\obj\Debug\netcoreapp3.1\Exercicio 7.AssemblyInfo.cs
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\Exercicio 7\obj\Debug\netcoreapp3.1\Exercicio 7.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\Exercicio 7\obj\Debug\netcoreapp3.1\Exercicio 7.dll
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\Exercicio 7\obj\Debug\netcoreapp3.1\Exercicio 7.pdb
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\Exercicio 7\obj\Debug\netcoreapp3.1\Exercicio 7.genruntimeconfig.cache
