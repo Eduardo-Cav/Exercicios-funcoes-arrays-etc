@@ -1,0 +1,13 @@
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\exercicio 6\bin\Debug\netcoreapp3.1\exercicio 6.exe
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\exercicio 6\bin\Debug\netcoreapp3.1\exercicio 6.deps.json
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\exercicio 6\bin\Debug\netcoreapp3.1\exercicio 6.runtimeconfig.json
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\exercicio 6\bin\Debug\netcoreapp3.1\exercicio 6.runtimeconfig.dev.json
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\exercicio 6\bin\Debug\netcoreapp3.1\exercicio 6.dll
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\exercicio 6\bin\Debug\netcoreapp3.1\exercicio 6.pdb
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\exercicio 6\obj\Debug\netcoreapp3.1\exercicio 6.csprojAssemblyReference.cache
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\exercicio 6\obj\Debug\netcoreapp3.1\exercicio 6.AssemblyInfoInputs.cache
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\exercicio 6\obj\Debug\netcoreapp3.1\exercicio 6.AssemblyInfo.cs
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\exercicio 6\obj\Debug\netcoreapp3.1\exercicio 6.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\exercicio 6\obj\Debug\netcoreapp3.1\exercicio 6.dll
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\exercicio 6\obj\Debug\netcoreapp3.1\exercicio 6.pdb
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\exercicio 6\obj\Debug\netcoreapp3.1\exercicio 6.genruntimeconfig.cache
