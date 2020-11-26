@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Meus Documentos\\Área de Trabalho\\Exercício 1\\Exercício 1.csproj",
+      "projectUniqueName": "E:\\Meus Documentos\\Área de Trabalho\\Exercicios-funcoes-arrays-etc\\Idade-votacao\\Exercício 1.csproj",
       "projectName": "Exercício 1",
-      "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\Exercício 1\\Exercício 1.csproj",
+      "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\Exercicios-funcoes-arrays-etc\\Idade-votacao\\Exercício 1.csproj",
       "packagesPath": "C:\\Users\\eduzi\\.nuget\\packages\\",
-      "outputPath": "E:\\Meus Documentos\\Área de Trabalho\\Exercício 1\\obj\\",
+      "outputPath": "E:\\Meus Documentos\\Área de Trabalho\\Exercicios-funcoes-arrays-etc\\Idade-votacao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eduzi\\AppData\\Roaming\\NuGet\\NuGet.Config"

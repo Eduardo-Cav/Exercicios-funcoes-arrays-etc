@@ -7,18 +7,24 @@ namespace Exercício_1
         static void Main(string[] args)
         {
             Console.WriteLine("Digite o ano que você nasceu: ");
-            int ano = int.Parse(Console.ReadLine());
+            int anodenascimento = int.Parse(Console.ReadLine());
+            
+            // os valores da função precisar ser exibidos em qualquer variavel que for colocada, respectivamente.
+            int retornodafuncao = IdadeVotacao(2020, anodenascimento);
+            
 
-            Console.WriteLine("Digite o ano atual: ");
-            int anoatual = int.Parse(Console.ReadLine());
-
-            int idade = anoatual - ano;
-
-            if(idade < 16){
-                Console.WriteLine($"Sua idade é de: {idade} anos, e você não possui idade mínima para votar este ano");
+            if(retornodafuncao >= 18){
+                Console.WriteLine($"Pode votar este ano, sua idade é de {retornodafuncao} anos");
             }else{
-                Console.WriteLine($"Parabéns! Você tem {idade} anos e poderá votar nesta eleição");
+                Console.WriteLine($"Não pode votar este ano, sua idade é de {retornodafuncao} anos");
             }
+             
+             // Função contem determinados valores
+             int IdadeVotacao(int atual, int nascimento){
+                 int idade = atual - nascimento;
+
+                return idade;
+             }
         }
     }
 }

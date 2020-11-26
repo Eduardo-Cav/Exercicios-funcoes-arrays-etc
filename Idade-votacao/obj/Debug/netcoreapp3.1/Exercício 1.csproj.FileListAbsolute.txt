@@ -11,3 +11,16 @@ E:\Meus Documentos\Área de Trabalho\Exercício 1\obj\Debug\netcoreapp3.1\Exerc�
 E:\Meus Documentos\Área de Trabalho\Exercício 1\obj\Debug\netcoreapp3.1\Exercício 1.dll
 E:\Meus Documentos\Área de Trabalho\Exercício 1\obj\Debug\netcoreapp3.1\Exercício 1.pdb
 E:\Meus Documentos\Área de Trabalho\Exercício 1\obj\Debug\netcoreapp3.1\Exercício 1.genruntimeconfig.cache
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\Idade-votacao\bin\Debug\netcoreapp3.1\Exercício 1.exe
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\Idade-votacao\bin\Debug\netcoreapp3.1\Exercício 1.deps.json
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\Idade-votacao\bin\Debug\netcoreapp3.1\Exercício 1.runtimeconfig.json
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\Idade-votacao\bin\Debug\netcoreapp3.1\Exercício 1.runtimeconfig.dev.json
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\Idade-votacao\bin\Debug\netcoreapp3.1\Exercício 1.dll
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\Idade-votacao\bin\Debug\netcoreapp3.1\Exercício 1.pdb
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\Idade-votacao\obj\Debug\netcoreapp3.1\Exercício 1.csprojAssemblyReference.cache
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\Idade-votacao\obj\Debug\netcoreapp3.1\Exercício 1.AssemblyInfoInputs.cache
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\Idade-votacao\obj\Debug\netcoreapp3.1\Exercício 1.AssemblyInfo.cs
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\Idade-votacao\obj\Debug\netcoreapp3.1\Exercício 1.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\Idade-votacao\obj\Debug\netcoreapp3.1\Exercício 1.dll
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\Idade-votacao\obj\Debug\netcoreapp3.1\Exercício 1.pdb
+E:\Meus Documentos\Área de Trabalho\Exercicios-funcoes-arrays-etc\Idade-votacao\obj\Debug\netcoreapp3.1\Exercício 1.genruntimeconfig.cache
