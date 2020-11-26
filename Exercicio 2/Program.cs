@@ -18,65 +18,48 @@ namespace Exercicio_2
             //da seguinte forma: A-álcool, G-gasolina), calcule e imprima o valor a ser pago pelo cliente
             //sabendo-se que o preço do litro da gasolina é R$ 5,30 e o preço do litro do álcool é R$ 4,90.
 
-            float total = 0;
-            bool continuar = true;
+            Console.WriteLine("Que tipo de combustivel deseja colocar? G - Gasolina ou A - Álcool");
+            string combustivel = Console.ReadLine();
+            
+            Console.WriteLine("Quantos litros deseja colocar: ");
+            float litros = float.Parse(Console.ReadLine());
 
-            while(continuar == true){
-                
-                Console.WriteLine("Vamos ver quanto de desconto você ira ter em seu abastecimento");
-                Console.Write("Digite quantos Litros deseja: ");
-                float litros = float.Parse(Console.ReadLine());
-                Console.Write("A, G): ");
-                string tipo = Console.ReadLine();
-                
-                if(tipo == "a" && litros <= 20){
-                    // Desconto = 3% por litro = 1L = 4,90
-                    float gasolina = 4.90F; 
-                    float desconto2= litros * gasolina;
-                    float desconto = desconto2 * 0.03f;
-                    total = desconto2 - desconto;
-                    Console.WriteLine($"O valor total é de: {total}");
-                }
+            float precoAlcool = 4.9f; 
+            float precoGasolina = 5.3f; 
+            float funcaovalor;
+    
 
-                else if(tipo == "a" && litros > 20){
-                    // Desconto = 5% por litro = 1L = 4,90
-                   float gasolina = 4.90F; 
-                    float desconto2= litros * gasolina;
-                    float desconto = desconto2 * 0.05f;
-                    total = desconto2 - desconto;
-                    Console.WriteLine($"O valor total é de: {total}");
-                }
+            switch (combustivel.ToLower())
+            {
+                case "a":
+                funcaovalor = valorApagar(litros, precoAlcool, 0.03f, 0.05f);
+                Console.WriteLine($"O valor total a ser pago é de: {funcaovalor}");
+                    break;
 
-                else if(tipo == "g" && litros <=20){
-                    // Desconto = 4% por litro = 1L = 5,30
-                   float gasolina = 5.30F; 
-                    float desconto2= litros * gasolina;
-                    float desconto = desconto2 * 0.04f;
-                    total = desconto2 - desconto;
-                    Console.WriteLine($"O valor total é de: {total}");
-                }
-                else if(tipo == "g" && litros > 20){
-                    // Desconto = 6% por litro = 1L = 5,30
-                    float gasolina = 5.30F; 
-                    float desconto2= litros * gasolina;
-                    float desconto = desconto2 * 0.06f;
-                    total = desconto2 - desconto;
-                    Console.WriteLine($"O valor total é de: {total}");
-                }
-
-                else{
-                    Console.WriteLine("Informação inválida, digite novamente.");
-                }
-
-                
-                Console.WriteLine("Repetir operação? ");
-                string resposta = Console.ReadLine();
-                
-                if(resposta != "sim"){
-                    continuar = false;
-                    Console.WriteLine("Ok até a próxima :)");
-               }else{}
+                case "g":
+                funcaovalor = valorApagar(litros, precoGasolina, 0.4f, 0.6f);
+                Console.WriteLine($"O valor total a ser pago é de: {funcaovalor}");
+                break;
+                default:
+                    break;
             }
+
+            float valorApagar(float litros, float preco, float perc1, float perc2){
+                float descontoPorcento;
+                if(litros <= 20){
+                    descontoPorcento = perc1;
+                }else{
+                    descontoPorcento =  perc2;
+                }
+                
+                float descontoCalculo = (litros * preco) * descontoPorcento;
+                float valorBasico = (litros * preco);
+                float valorTotal = valorBasico - descontoCalculo;
+
+                return valorTotal;
+            }
+                
+             
         }
     }
 }
